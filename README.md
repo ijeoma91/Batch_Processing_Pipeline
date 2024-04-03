@@ -21,13 +21,13 @@ The following are the basic steps to able to run this code:
  - install pyspark and Spark
  - In install and import all the necessary for this project and they can be seen  before the main line of Code
    
-   ### For Docker-Compose>>>
-    - Install any Text Editors, for this case study, Notepad ++ were used
-    -  Copy and store the code in your project directory of your choice using *docker-compose.yml*
-    - Open your project directory where the code is instored using CMD
-    -  Type this (docker-compose u  and docker-compose up -d) in the cmd project directory to connect your docker-compose to your docker-desktop where your cassandra is pull out for data in storation.
+### For Docker-Compose>>>
+  - Install any Text Editors, for this case study, Notepad ++ were used
+  - Copy and store the code in your project directory of your choice using *docker-compose.yml*
+  - Open your project directory where the code is instored using CMD
+  - Type this (docker-compose u  and docker-compose up -d) in the cmd project directory to connect your docker-compose to your docker-desktop where your cassandra is pull out for data in storation.
   
-    -  Note: For much more detailed explaination look at the project Archtectural/Prerequisite`
+#### Note: For much more detailed explaination look at the project Archtectural/Prerequisite`
   
     -  Finally .... to use the docker-compose.yml and the dataset, you need to unzip the folder named My_Batch_Processing_Data_Project
   
